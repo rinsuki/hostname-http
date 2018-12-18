@@ -5,6 +5,12 @@
 ## How to use
 
 ```
+$ docker run --rm -p 8080:8080 rinsuki/hostnane-http
+```
+
+or
+
+```
 $ docker build .
 Sending build context to Docker daemon  6.537MB
 Step 1/5 : FROM golang:alpine
