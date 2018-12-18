@@ -1,5 +1,8 @@
 # hostname-http
 
+[![](https://img.shields.io/docker/pulls/rinsuki/hostname-http.svg)](https://hub.docker.com/r/rinsuki/hostname-http)
+
+
 `hostname` in http.
 
 ## How to use
